@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1387695785 source:e:\cbproject\huffmatree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"HuffmanTreeHead.h"
+
+1387695598 e:\cbproject\huffmatree\huffmantreehead.h
+
+1387628362 source:e:\cbproject\huffmatree\huffmantreerealise.c
+	"HuffmanTreeHead.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
